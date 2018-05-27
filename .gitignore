@@ -7,3 +7,4 @@ jspm_packages
 
 # CI/CD
 .coveralls.yml
+coverage
